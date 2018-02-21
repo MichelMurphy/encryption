@@ -15,14 +15,19 @@ Assumptions considered:
 ## Installation
 
 clone the repository
+
 git clone https://github.com/MichelMurphy/encryption.git
 
-run the Maven command
-mvn install
+run the Maven command mvn install
+
+Or import in any IDE as an existing maven project
+
+Eg. In Eclipse use File -> Import... -> Maven -> Existing Maven Project
 
 ## Testing
 
 In other to test the algorithm, please, run the Unit Test in any IDE or using Maven
+
 mvn test
 
 ## Contributing
